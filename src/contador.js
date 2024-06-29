@@ -141,7 +141,13 @@ export default function Contador() {
                 </div>
               </div>
             </form>
+          
           </div>
+          <footer className="bg-white-100  mx-auto py-5 px-4 sm:px-6 lg:py-5 lg:px-8" aria-labelledby="footer-heading"> 
+<p className="text-base text-gray-400 md:mt-0 md:order-1">
+  &copy; 2024 Esto es de Polota, Inc. All rights reserved.
+</p>
+</footer>
         </div>
       </div>
     </>
